@@ -1,6 +1,6 @@
 # Data Mining, Analysis, ML and Visualizations
 
-Welcome to the gghedini repository! This project showcases my work in the fields of data mining, machine learning, and visualizations. Below, you'll find an overview of the project's purpose, key features, and how to get started.
+Welcome to the R repository! This project showcases my work in the fields of data mining, machine learning, and visualizations. Below, you'll find an overview of the project's purpose, key features, and how to get started.
 
 ## Purpose
 
